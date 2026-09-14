@@ -2,6 +2,10 @@
 
 Distribution officielle des APK alpha de Vector Survivor, autorisée par le créateur. Le dépôt de développement reste distinct et privé.
 
+## 0.8.4 — Build Update : fondations
+
+Six affinités, deux modules, effets 5/5, tactile et réception Supabase corrigés. Hybrides à venir. [Téléchargement direct](https://vector-survivor-one.vercel.app/downloads/apk/Vector-Survivor-0.8.4.apk) · [Journal](https://vector-survivor-one.vercel.app/journal/version-0-8-4/).
+
 ## 0.8.3.1 — Défilement tactile
 
 Les cartes et boutons des listes laissent passer les glissements sans déclencher leurs actions. [Téléchargement direct](https://vector-survivor-one.vercel.app/downloads/apk/Vector-Survivor-0.8.3.1.apk) · [Journal](https://vector-survivor-one.vercel.app/journal/version-0-8-3-1/).
@@ -24,7 +28,7 @@ Huit apparences animées, Orbital Rage, effets des armes et fusions, interface A
 
 ## Télécharger
 
-- [Dernière version : 0.8.3.1](https://github.com/Nagaraaa/Vector-Survivor-Downloads/releases/tag/v0.8.3.1)
+- [Dernière version : 0.8.4](https://github.com/Nagaraaa/Vector-Survivor-Downloads/releases/tag/v0.8.4)
 - [Anciennes versions : 0.1.0 à 0.7.8](https://github.com/Nagaraaa/Vector-Survivor-Downloads/releases/tag/archives-2026-09-13)
 
 Android 7.0 ou supérieur, ARM64. Les 41 APK publiées ont été vérifiées avec aapt et apksigner ; elles partagent la même identité et le même certificat. Cela ne constitue pas une validation du gameplay ou des performances sur tous les téléphones.
